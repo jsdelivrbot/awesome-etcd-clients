@@ -7,3 +7,4 @@
 
 - ![Golang] (https://github.com/coreos/etcd/tree/master/client)
 - ![Node.js](https://github.com/stianeikeland/node-etcd)
+- ![Ruby] (https://github.com/ranjib/etcd-ruby)
