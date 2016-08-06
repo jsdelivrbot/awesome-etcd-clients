@@ -4,4 +4,4 @@ Another awesome list.
 
 ---
 
-![Node.js](https://github.com/stianeikeland/node-etcd)
+- ![Node.js](https://github.com/stianeikeland/node-etcd)
